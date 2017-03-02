@@ -1,0 +1,20 @@
+.item { 
+  margin: 10px;
+  padding: 20px;
+  width: 90px;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  float:left;
+  background-color: #fafafa;
+  border: 1px solid #dadada;
+}
+
+.fizz {
+  background-color: #da0;
+}
+
+.buzz {
+  color: #00f;
+}
